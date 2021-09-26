@@ -10,5 +10,6 @@ package com.example.web;
 public class WebContorller {
     public static void main(String[] args) {
         System.out.println("helloword");
+        int a=5;
     }
 }
